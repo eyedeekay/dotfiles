@@ -1,0 +1,37 @@
+{
+	// See https://go.microsoft.com/fwlink/?LinkId=827846 to learn about workspace recommendations.
+	// Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
+
+	// List of extensions which should be recommended for users of this workspace.
+	// all the installed extensions
+	"recommendations": [
+		"ms-azuretools.vscode-docker",
+		"vscjava.vscode-java-dependency",
+		"visualstudioexptteam.intellicode-api-usage-examples",
+		"vscjava.vscode-java-debug",
+		"vscjava.vscode-java-pack",
+		"vscjava.vscode-java-test",
+		"vscjava.vscode-maven",
+		"visualstudioexptteam.vscodeintellicode",
+		"vscjava.vscode-gradle",
+		"github.vscode-github-actions",
+		"tabbyml.vscode-tabby",
+		"ms-vscode.makefile-tools",
+		"searking.preview-vscode",
+		"redhat.java",
+		"github.copilot-chat",
+		"golang.go",
+		"ms-vscode-remote.remote-containers",
+		"github.copilot",
+		"hangxingliu.vscode-systemd-support",
+		"sumneko.lua",
+		"ms-vscode.cpptools-themes",
+		"ms-vscode.cpptools-extension-pack",
+		"ms-vscode.cmake-tools",
+		"ms-vscode.cpptools",
+	],
+	// List of extensions recommended by VS Code that should not be recommended for users of this workspace.
+	"unwantedRecommendations": [
+		
+	]
+}
